@@ -46,6 +46,8 @@ Application Interface
 
 
 
+
+
 Sample Prediction
 <img width="1917" height="1018" alt="Screenshot 2026-10-25 081323" src="https://github.com/user-attachments/assets/91d2502d-17cb-4653-a6e0-d375627376bc" />
 
