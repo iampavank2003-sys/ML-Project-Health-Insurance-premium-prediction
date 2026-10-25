@@ -12,6 +12,9 @@ Project Overview
 
 This project demonstrates an end-to-end machine-learning application: users enter details in the web interface, the application passes the input to the prediction helper, and the model returns an estimated insurance premium.
 
+
+
+
 Note: Predictions are estimates from the project's model and should not be treated as official insurance quotes or financial advice.
 
 Technology Stack
@@ -41,14 +44,20 @@ ML-Project-Health-Insurance-premium-prediction/
 
 Screenshots
 
+
 Application Interface
 <img width="1917" height="1015" alt="Screenshot 2026-10-25 081208" src="https://github.com/user-attachments/assets/c2a88665-0634-4a21-8734-cdc93a5738be" />
 
 
 
+Application-interface
+![app-interface.png](Screenshots/app-interface.png)
+
+
 
 
 Sample Prediction
+
 <img width="1917" height="1018" alt="Screenshot 2026-10-25 081323" src="https://github.com/user-attachments/assets/91d2502d-17cb-4653-a6e0-d375627376bc" />
 
 
@@ -81,6 +90,35 @@ Repository
 
 Source code:
 
+![Sample-prediction.png](Screenshots/Sample-prediction.png)
+
+
+Run Locally
+
+1. Clone the repository:
+
+   git clone https://github.com/iampavank2003-sys/ML-Project-Health-Insurance-premium-prediction.git
+
+   cd ML-Project-Health-Insurance-premium-prediction
+
+2. Create and activate a virtual environment (Windows Command Prompt):
+   
+   python -m venv venv
+   venv\Scripts\activate
+
+3. Install dependencies:
+
+   python -m pip install -r requirements.txt
+
+4. Start the Streamlit app:
+
+   python -m streamlit run main.py
+
+5. Open the local URL shown in your terminal (usually http://localhost:8501).
+
+Repository Source code:
+
+
 https://github.com/iampavank2003-sys/ML-Project-Health-Insurance-premium-prediction
 
 Future Improvements
@@ -90,6 +128,12 @@ Future Improvements
 - Add more test cases and document the model's limitations.
 - Add screenshots and example inputs/outputs to this README.
 
+
 Disclaimer
 
 This application is intended for learning and demonstration purposes. Actual insurance premiums depend on insurer-specific rules, underwriting, policy details, and other factors not necessarily represented by this model.
+
+Disclaimer:
+
+This application is intended for learning and demonstration purposes. Actual insurance premiums depend on insurer-specific rules, underwriting, policy details, and other factors not necessarily represented by this model.
+
