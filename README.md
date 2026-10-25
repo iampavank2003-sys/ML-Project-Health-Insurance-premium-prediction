@@ -24,10 +24,15 @@ Technology Stack
 Project Structure
 
 ML-Project-Health-Insurance-premium-prediction/
+
 ├── artifacts/              # Saved model and/or supporting artifacts
+
 ├── main.py                 # Streamlit application entry point
+
 ├── prediction_helper.py    # Prediction and preprocessing logic
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md               # Project documentation
 
 Run Locally
