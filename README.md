@@ -44,6 +44,8 @@ Screenshots
 Application Interface
 <img width="1917" height="1015" alt="Screenshot 2026-10-25 081208" src="https://github.com/user-attachments/assets/c2a88665-0634-4a21-8734-cdc93a5738be" />
 
+
+
 Sample Prediction
 <img width="1917" height="1018" alt="Screenshot 2026-10-25 081323" src="https://github.com/user-attachments/assets/91d2502d-17cb-4653-a6e0-d375627376bc" />
 
