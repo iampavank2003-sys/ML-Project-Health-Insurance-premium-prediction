@@ -34,4 +34,5 @@ Technology Stack
 └── README.md               # Project documentation
 
 Disclaimer
+
 This application is intended for learning and demonstration purposes. Actual insurance premiums depend on insurer-specific rules, underwriting, policy details, and other factors not necessarily represented by this model.
