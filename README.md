@@ -3,15 +3,19 @@ Healthcare Insurance Premium Prediction
 A machine-learning web application that predicts an estimated health insurance premium from user-provided information. The app provides an interactive interface built with Streamlit and connects the interface to the project's prediction logic.
 
 Live Demo
+
 Try the deployed app:
+
 https://ml-project-health-insurance-premium-prediction-bypk.streamlit.app/
 
 Project Overview
+
 This project demonstrates an end-to-end machine-learning application: users enter details in the web interface, the application passes the input to the prediction helper, and the model returns an estimated insurance premium.
 
 Note: Predictions are estimates from the project's model and should not be treated as official insurance quotes or financial advice.
 
 Technology Stack
+
 - Python — application and prediction logic
 - Streamlit — interactive web interface
 - Pandas / NumPy — data handling and numerical operations
